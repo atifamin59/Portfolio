@@ -1,5 +1,5 @@
 # Portfolio
-In my seven-year journey as an Mobile Developer, I've emerged as a seasoned professional specializing in Java, Kotlin, and Flutter. My track record includes impactful contributions
+In my six-year journey as an Mobile Developer, I've emerged as a seasoned professional specializing in Java, Kotlin, and Flutter. My track record includes impactful contributions
 to diverse projects, ranging from native Android applications to cross-platform solutions. Adept in problem-solving and dedicated to delivering exceptional user experiences, I bring
 innovation and adaptability to every project. My skills extend beyond coding, encompassing collaborative team leadership and a commitment to staying abreast of cutting-edge
 technologies. Let's connect to explore how my expertise can elevate your development initiatives.
@@ -44,6 +44,8 @@ from scratch.
 
 
 
+
+
 # [RevBits-CIP](https://play.google.com/store/apps/details?id=revbits.cip)
 
 The app is a comprehensive cybersecurity solution with a focus on zero-trust network access. It facilitates seamless management through a website and mobile applications. Users
@@ -73,6 +75,8 @@ As an Android developer communicating with the business team and client, underst
 
 
 
+
+
 # [Podcast](https://play.google.com/store/apps/details?id=com.tunevufe.android.podcast)
 
 The app is an ad-free podcast, by bringing in interactive features and easy navigation for a better user experience. Skillfully integrated episode reminders, ensuring users never miss out on new content, and ensured smooth compatibility with major podcasts. Demonstrated expertise in optimizing audio applications for Android, contributing to Tunevu's success.
@@ -92,6 +96,8 @@ As an Android developer communicating with the business team and client, underst
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/5.png" width="150" title="iPad version">
 </p>
+
+
 
 
 
@@ -118,7 +124,10 @@ As Android Developer gathhered the user requirements from client and implement i
 * Firebase
 * MVVM
 
+
+
 ### User App ###
+
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
@@ -126,9 +135,12 @@ As Android Developer gathhered the user requirements from client and implement i
 </p>
 
 ### Driver App ###
+
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/6.png" width="150" title="iPad version">
 </p>
+
+
 
 
 
@@ -164,6 +176,8 @@ development, particularly in the seamless integration of advanced mapping functi
 
 
 
+
+
 # [InvoChat](https://play.google.com/store/apps/details?id=com.invochat.co)
 
 InvoChat, our flagship product, is transforming workplace communication. Widely embraced in our company, it now extends its excellence to others, serving as a robust alternative to platforms like Slack. Offering secure, private, and versatile communication, InvoChat ensures seamless collaboration, task management, and real-time progress tracking for enhanced productivity across organizations.
@@ -183,6 +197,10 @@ As an Android developer for the InvoChat project, I lead the development of the 
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/5.png" width="150" title="iPad version">
 </p>
+
+
+
+
 
 
 
@@ -214,6 +232,9 @@ As the Android developer, I play a direct role in client engagement, collaborati
 
 
 
+
+
+
 # [bp better](https://play.google.com/store/apps/details?id=com.verbdb.bpbetter.bpbetterandroid)
 
 The Android app ensures BP businesses and stations stay informed and efficient. Utilizing a customized webview, it delivers real-time notifications, a comprehensive calendar of retail events, promotional assets, offer details, and training materials. This streamlined approach enhances the BP experience by providing businesses with a centralized platform for accessing crucial updates and resources, contributing to improved efficiency and engagement.
@@ -238,26 +259,13 @@ As an Android developer in the support team Communicating with the business team
 
 
 
+
+
 # [7 Speaking](https://play.google.com/store/apps/details?id=com.sevenspeaking)
 
 7Speaking covers all language training modalities for 5 learning languages: English training, German, Spanish, French, Italian.
 Individual courses, group lessons, elearning, microlearning, social-learning, dual skills training, news-based lessons, video chat ... and all activities are customized according to the
 level, the profession, the sector of activity and the interests of each.
-
-Workshops:
-- News
-- Video by topics
-- Business Skills
-- Professional Skills
-- Specialised Vocabulary
-- My Vocabulary List
-- Vocabulary Worskshop
-- Grammar Workshop
-- Private lessons management
-- Progress and Time spent
-- Personal Profile
-- Newsfeed (New)
-- Badges (New)
 
 
 ### My Role ###
@@ -272,8 +280,10 @@ As Android Developer gathhered the user requirements from client and implement i
 * Customised webviews, using java
 
 <p align="center">
-<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/images/7Speaking/10.png" width="150" title="iPad version">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/9.png" width="150" title="iPad version">
 </p>
+
+
 
 
 
@@ -357,6 +367,7 @@ As Android Developer worked under senior team members.
     src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/5.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/6.png" width="150" title="My Items">
 </p>
+
 
 
 
