@@ -60,12 +60,37 @@ As an Android developer communicating with the business team and client, underst
 * Live Data
 * Push Notifications
 * Firebase
+* Jetpack Navigation
 * Dark mode support
 * MVVM
 * Hilt
 
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/6.png" width="150" title="iPad version">
+</p>
+
+
+
+
+
+# [Podcast](https://play.google.com/store/apps/details?id=com.tunevufe.android.podcast)
+
+The app is an ad-free podcast, by bringing in interactive features and easy navigation for a better user experience. Skillfully integrated episode reminders, ensuring users never miss out on new content, and ensured smooth compatibility with major podcasts. Demonstrated expertise in optimizing audio applications for Android, contributing to Tunevu's success.
+
+
+### My Role ###
+As an Android developer communicating with the business team and client, understanding requirements, and sprint planning with team members.
+
+### Technologies ###
+* Kotlin
+* Live Data
+* Push Notifications
+* Firebase
+* MVVM
+* Hilt
+
+<p align="center">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/podcast-player/5.png" width="150" title="iPad version">
 </p>
 
 
@@ -193,6 +218,7 @@ As the Android developer, I play a direct role in client engagement, collaborati
 
 The Android app ensures BP businesses and stations stay informed and efficient. Utilizing a customized webview, it delivers real-time notifications, a comprehensive calendar of retail events, promotional assets, offer details, and training materials. This streamlined approach enhances the BP experience by providing businesses with a centralized platform for accessing crucial updates and resources, contributing to improved efficiency and engagement.
 
+
 ### My Role ###
 As an Android developer in the support team Communicating with the business team and client, understanding requirements, and fixing them.
 
@@ -233,8 +259,9 @@ Workshops:
 - Newsfeed (New)
 - Badges (New)
 
+
 ### My Role ###
-As an Android developer in the support team Communicating with the business team and client, understanding requirements, and fixing them.
+As Android Developer gathhered the user requirements from client and implement into the cutting edge features.
 
 ### Technologies ###
 * JAVA
@@ -246,4 +273,107 @@ As an Android developer in the support team Communicating with the business team
 
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/images/7Speaking/10.png" width="150" title="iPad version">
+</p>
+
+
+
+
+
+# [Gourmet Burger Kitchen](https://play.google.com/store/apps/details?id=com.gourmetburgerkitchen.app&hl=en&gl=US)
+
+Revamped the GBK app for hassle-free dining—order your food, pay at the table, and even book in advance. Experience a seamless meal journey with added perks: use the app and unlock a free burger, making every visit more delightful and rewarding.
+
+
+### My Role ###
+As an Android developer communicating with the business team and client, understanding requirements, and sprint planning with team members.
+
+### Technologies ###
+* Kotlin
+* Live Data
+* Room
+* Push Notifications
+* Firebase
+* MVVM
+* Hilt
+* Payment gateways
+
+
+<p align="center">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/gourmet/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/gourmet/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/gourmet/3.png" width="150" title="iPad version">
+</p>
+
+
+
+
+
+# [Ajooba](https://play.google.com/store/apps/details?id=com.ajooba.android)
+
+The Ajooba app offers a user-friendly platform for comprehensive shopping, covering diverse categories. Users benefit from convenient, at-home shopping, price comparisons, exclusive discounts, and nationwide on-time delivery. The app ensures a seamless and enjoyable experience, featuring trending consumer products and supermarket offerings.
+
+
+### My Role ###
+As Android Developer gathhered the user requirements from client and implement into the cutting edge features.
+
+### Technologies ###
+* Kotlin
+* Live Data
+* Room
+* Push Notifications
+* Firebase
+* MVVM
+* Payment gateways
+
+<p align="center">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/3.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/4.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/5.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/elementary/ajooba/6.png" width="150" title="My Items">
+</p>
+
+
+
+
+
+# [Key Car Rental](https://play.google.com/store/apps/details?id=comcom.key)
+
+This app streamlines the car booking process for various destinations, offering a convenient solution for commuting to work, the airport, or any location. By eliminating parking hassles, traffic concerns, and the wait for a taxi, the app enhances user mobility and simplifies their travel experience.
+
+
+### My Role ###
+As Android Developer worked under senior team members.
+
+### Technologies ###
+* JAVA
+* SQLite
+* Push Notifications
+* Firebase
+* Google maps
+* MVC
+* Payment gateways
+
+<p align="center">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/3.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/4.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/5.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+    src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/keycarrental/6.png" width="150" title="My Items">
+</p>
+
+
+
+
+# [STS PayOne SDK](https://payone.io/)
+
+I created the STS PayOne payment SDK, making it super easy for merchants. It lets them smoothly include secure payment features right in their apps. No more hassle of redirecting users to a browser; with our SDK, customers enjoy a seamless in-app payment experience, ensuring a convenient and delightful transaction process.
+
+### My Role ###
+As an Android developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the Android side, I have created this SDK
+from scratch.
+
+### Technologies ###
+* JAVA
+* Restful API
+* Sha 256 encryption decryption
+
+<p align="center">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/astute/sts-sdk/1.png"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
