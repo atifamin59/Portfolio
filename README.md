@@ -41,6 +41,9 @@ from scratch.
 </p>
 
 
+
+
+
 # [RevBits-CIP](https://play.google.com/store/apps/details?id=revbits.cip)
 
 The app is a comprehensive cybersecurity solution with a focus on zero-trust network access. It facilitates seamless management through a website and mobile applications. Users
@@ -62,16 +65,14 @@ As an Android developer communicating with the business team and client, underst
 * Hilt
 
 <p align="center">
-<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/10.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
-    src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/11.png" width="150" title="iPad version">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/cip/6.png" width="150" title="iPad version">
 </p>
 
 
-# [EasyMove](Not live yet)
+
+
+
+# [EasyMove](https://apps.apple.com/us/developer/traency-llc/id1655843546)
 
 Easymove: Your go-to app for seamless moving and delivery. Simplifying the process, it connects you with local helpers, negotiates flat rates in real-time, and ensures a stress-free experience for users across the U.S.
 * Organize your requests effortlessly, ensuring each move or delivery is well-defined and easy to manage.
@@ -98,13 +99,17 @@ As Android Developer gathhered the user requirements from client and implement i
     src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
     src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/user_app/10.png" width="150" title="iPad version">
 </p>
+
 ### Driver App ###
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/easymove/driver_app/6.png" width="150" title="iPad version">
 </p>
 
 
-# [Drive Safe](Not live yet)
+
+
+
+# [Drive Safe](https://github.com/atifamin59/Portfolio/blob/main/images/invozone/drivesfn/1.png)
 
 Drive Safe is an Android application designed for user safety on the road. The app utilizes Mapbox for efficient navigation, real-time traffic updates, and offers optimal route suggestions. With a focus on enhancing the driving experience, Drive Safe prioritizes user safety by providing key features to navigate, stay informed about traffic conditions, and choose the best routes for a secure journey.
 
@@ -130,6 +135,10 @@ development, particularly in the seamless integration of advanced mapping functi
 </p>
 
 
+
+
+
+
 # [InvoChat](https://play.google.com/store/apps/details?id=com.invochat.co)
 
 InvoChat, our flagship product, is transforming workplace communication. Widely embraced in our company, it now extends its excellence to others, serving as a robust alternative to platforms like Slack. Offering secure, private, and versatile communication, InvoChat ensures seamless collaboration, task management, and real-time progress tracking for enhanced productivity across organizations.
@@ -149,6 +158,11 @@ As an Android developer for the InvoChat project, I lead the development of the 
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/invochat/5.png" width="150" title="iPad version">
 </p>
+
+
+
+
+
 
 
 # [MintRoute](https://www.mintroute.com/)
@@ -171,6 +185,10 @@ As the Android developer, I play a direct role in client engagement, collaborati
 </p>
 
 
+
+
+
+
 # [bp better](https://play.google.com/store/apps/details?id=com.verbdb.bpbetter.bpbetterandroid)
 
 The Android app ensures BP businesses and stations stay informed and efficient. Utilizing a customized webview, it delivers real-time notifications, a comprehensive calendar of retail events, promotional assets, offer details, and training materials. This streamlined approach enhances the BP experience by providing businesses with a centralized platform for accessing crucial updates and resources, contributing to improved efficiency and engagement.
@@ -189,6 +207,9 @@ As an Android developer in the support team Communicating with the business team
 <p align="center">
 <img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/bbbetter/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/bbbetter/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/bbbetter/3.png" width="150" title="iPad version">
 </p>
+
+
+
 
 
 # [7 Speaking](https://play.google.com/store/apps/details?id=com.sevenspeaking)
@@ -224,5 +245,5 @@ As an Android developer in the support team Communicating with the business team
 * Customised webviews, using java
 
 <p align="center">
-<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/8.png" width="150" title="iPad version">;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/9.png" width="150" title="iPad version">;<img src="https://github.com/atifamin59/Portfolio/images/7Speaking/10.png" width="150" title="iPad version">
+<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/blob/main/images/invozone/7Speaking/9.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/atifamin59/Portfolio/images/7Speaking/10.png" width="150" title="iPad version">
 </p>
