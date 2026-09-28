@@ -1,0 +1,14 @@
+<svg width="720" height="1500" viewBox="0 0 720 1500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1500" fill="#f1f7ff"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="56" y="94" fill="#020617" font-size="54" font-weight="300">×</text>
+    <text x="292" y="104" fill="#020617" font-size="34" font-weight="900">Tap to pay</text>
+    <text x="284" y="720" fill="#020617" font-size="68" font-weight="900" text-anchor="middle">QAR 5.00</text>
+    <circle cx="360" cy="870" r="66" fill="none" stroke="#cfe9ff" stroke-width="14"/>
+    <path d="M318 820a66 66 0 0 1 92 92" fill="none" stroke="#0d83f2" stroke-width="14" stroke-linecap="round"/>
+    <text x="360" y="1030" fill="#020617" font-size="42" font-weight="900" text-anchor="middle">Preparing terminal</text>
+    <text x="360" y="1090" fill="#52525b" font-size="26" font-weight="900" text-anchor="middle">Preparing secure payment</text>
+    <rect x="58" y="1288" width="604" height="95" rx="22" fill="#ffffff" stroke="#e5edf7"/>
+    <text x="360" y="1348" fill="#020617" font-size="31" font-weight="900" text-anchor="middle">Cancel</text>
+  </g>
+</svg>

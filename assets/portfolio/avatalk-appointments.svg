@@ -1,0 +1,39 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1100" fill="#f4f6fb"/>
+  <text x="720" y="92" fill="#0f172a" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800">Appointments</text>
+  <rect x="70" y="145" width="1460" height="850" rx="28" fill="#ffffff"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <g transform="translate(110 195)">
+      <text x="0" y="32" fill="#111827" font-size="28" font-weight="800">Therapy Session 34</text>
+      <text x="0" y="66" fill="#0ea5e9" font-size="21" font-weight="800">130 days ago</text>
+      <text x="0" y="102" fill="#6b7280" font-size="22">Thursday, May 21, 2026</text>
+      <text x="0" y="134" fill="#6b7280" font-size="22">9:20 AM - 9:50 AM</text>
+      <text x="0" y="184" fill="#111827" font-size="21">Patient: Pat-001</text>
+      <text x="0" y="216" fill="#111827" font-size="21">Staff: Usama Therapist (Therapist)</text>
+      <rect x="1300" y="8" width="120" height="32" rx="8" fill="#dcfce7"/>
+      <text x="1314" y="31" fill="#22c55e" font-size="16" font-weight="900">SCHEDULED</text>
+      <path d="M0 250H1420" stroke="#e5e7eb" stroke-width="2"/>
+    </g>
+    <g transform="translate(110 465)">
+      <text x="0" y="32" fill="#111827" font-size="28" font-weight="800">Therapy Session 6</text>
+      <text x="0" y="66" fill="#0ea5e9" font-size="21" font-weight="800">144 days ago</text>
+      <text x="0" y="102" fill="#6b7280" font-size="22">Thursday, May 7, 2026</text>
+      <text x="0" y="134" fill="#6b7280" font-size="22">9:20 AM - 11:30 AM</text>
+      <text x="0" y="184" fill="#111827" font-size="21">Patient: Pat-003</text>
+      <text x="0" y="216" fill="#111827" font-size="21">Staff: Usama Therapist (Therapist)</text>
+      <rect x="1300" y="8" width="120" height="32" rx="8" fill="#dcfce7"/>
+      <text x="1314" y="31" fill="#22c55e" font-size="16" font-weight="900">SCHEDULED</text>
+      <path d="M0 250H1420" stroke="#e5e7eb" stroke-width="2"/>
+    </g>
+    <g transform="translate(110 735)">
+      <text x="0" y="32" fill="#111827" font-size="28" font-weight="800">Therapy Session 32</text>
+      <text x="0" y="66" fill="#0ea5e9" font-size="21" font-weight="800">156 days ago</text>
+      <text x="0" y="102" fill="#6b7280" font-size="22">Saturday, April 25, 2026</text>
+      <text x="0" y="134" fill="#6b7280" font-size="22">9:25 AM - 9:55 AM</text>
+      <text x="0" y="184" fill="#111827" font-size="21">Patient: Pat-001</text>
+      <text x="0" y="216" fill="#111827" font-size="21">Staff: Usama Therapist (Therapist)</text>
+      <rect x="1286" y="8" width="134" height="32" rx="8" fill="#e5e7eb"/>
+      <text x="1300" y="31" fill="#8b8f98" font-size="16" font-weight="900">COMPLETED</text>
+    </g>
+  </g>
+</svg>

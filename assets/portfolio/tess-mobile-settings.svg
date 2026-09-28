@@ -1,0 +1,31 @@
+<svg width="720" height="1500" viewBox="0 0 720 1500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="1500" fill="#f1f7ff"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="38" y="130" fill="#020617" font-size="44" font-weight="900">Settings</text>
+    <text x="44" y="220" fill="#52525b" font-size="24" font-weight="900">APPEARANCE &amp; LANGUAGE</text>
+    <rect x="38" y="246" width="644" height="222" rx="24" fill="#ffffff" stroke="#e5edf7"/>
+    <text x="66" y="318" fill="#020617" font-size="26" font-weight="900">Theme</text>
+    <rect x="430" y="274" width="226" height="64" rx="18" fill="#f4f4f5"/>
+    <rect x="432" y="274" width="112" height="64" rx="18" fill="#dbeeff"/>
+    <text x="456" y="314" fill="#0284c7" font-size="23" font-weight="900">Light</text>
+    <text x="570" y="314" fill="#52525b" font-size="23" font-weight="900">Dark</text>
+    <text x="66" y="412" fill="#020617" font-size="26" font-weight="900">Language</text>
+    <rect x="400" y="368" width="256" height="64" rx="18" fill="#f4f4f5"/>
+    <rect x="402" y="368" width="136" height="64" rx="18" fill="#dbeeff"/>
+    <text x="426" y="408" fill="#0284c7" font-size="23" font-weight="900">English</text>
+    <text x="570" y="408" fill="#52525b" font-size="23" font-weight="900">العربية</text>
+    <text x="44" y="548" fill="#52525b" font-size="24" font-weight="900">SECURITY &amp; DEVICE</text>
+    <rect x="38" y="574" width="644" height="370" rx="24" fill="#ffffff" stroke="#e5edf7"/>
+    <text x="66" y="640" fill="#020617" font-size="25" font-weight="900">Touch ID unlock</text>
+    <rect x="570" y="608" width="82" height="50" rx="25" fill="#0d83f2"/><circle cx="626" cy="633" r="22" fill="#ffffff"/>
+    <line x1="38" y1="704" x2="682" y2="704" stroke="#e5e7eb"/>
+    <text x="66" y="780" fill="#020617" font-size="25" font-weight="900">PIN unlock</text>
+    <rect x="570" y="748" width="82" height="50" rx="25" fill="#0d83f2"/><circle cx="626" cy="773" r="22" fill="#ffffff"/>
+    <line x1="38" y1="844" x2="682" y2="844" stroke="#e5e7eb"/>
+    <text x="66" y="920" fill="#020617" font-size="25" font-weight="900">Payment sounds</text>
+    <rect x="570" y="888" width="82" height="50" rx="25" fill="#0d83f2"/><circle cx="626" cy="913" r="22" fill="#ffffff"/>
+    <rect x="38" y="1024" width="644" height="92" rx="20" fill="#ffffff" stroke="#e5edf7"/>
+    <text x="310" y="1080" fill="#f43f5e" font-size="24" font-weight="900">Log out</text>
+    <text x="200" y="1180" fill="#64748b" font-size="22">TESS SoftPOS · v3.2.0 · Doha, Qatar</text>
+  </g>
+</svg>

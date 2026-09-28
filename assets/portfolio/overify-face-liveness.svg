@@ -1,0 +1,64 @@
+<svg width="1308" height="1032" viewBox="0 0 1308 1032" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-20%" y="-15%" width="140%" height="130%">
+      <feDropShadow dx="0" dy="22" stdDeviation="20" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <linearGradient id="steel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8e8e8"/>
+      <stop offset="0.35" stop-color="#707070"/>
+      <stop offset="0.65" stop-color="#202020"/>
+      <stop offset="1" stop-color="#ededed"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#d99775"/>
+      <stop offset="1" stop-color="#b06647"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1308" height="1032" fill="#10183b"/>
+
+  <g transform="translate(60 56)" filter="url(#shadow)">
+    <rect x="0" y="0" width="500" height="950" rx="92" fill="url(#steel)"/>
+    <rect x="14" y="14" width="472" height="922" rx="78" fill="#11131f"/>
+    <rect x="31" y="40" width="438" height="878" rx="58" fill="#6f6f6f"/>
+    <path d="M146 42h214c0 25-9 45-26 58-12 9-28 13-48 13h-66c-21 0-37-4-50-13-16-13-24-33-24-58z" fill="#1d1d1d"/>
+    <circle cx="207" cy="72" r="10" fill="#151515" stroke="#5a5a5a" stroke-width="3"/>
+    <rect x="245" y="65" width="62" height="10" rx="5" fill="#070707"/>
+    <circle cx="371" cy="72" r="10" fill="#2c2c2c" stroke="#777" stroke-width="2"/>
+
+    <path d="M68 80l-16 16 16 16" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(80 130)">
+      <circle cx="0" cy="0" r="15" fill="#55cfc2"/>
+      <path d="M-7 0l5 6 10-11" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="24" y1="0" x2="190" y2="0" stroke="#55cfc2" stroke-width="4"/>
+      <circle cx="216" cy="0" r="15" fill="#55cfc2"/>
+      <path d="M209 0l5 6 10-11" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="240" y1="0" x2="388" y2="0" stroke="#f4a279" stroke-width="4"/>
+      <circle cx="402" cy="0" r="16" fill="#f58c5f"/>
+      <text x="402" y="7" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="middle">3</text>
+    </g>
+
+    <text x="250" y="193" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">Please place your face inside the oval!</text>
+
+    <ellipse cx="250" cy="482" rx="158" ry="214" fill="#ffffff" opacity="0.16" stroke="#ffffff" stroke-width="5" stroke-dasharray="9 9"/>
+    <g transform="translate(104 244)">
+      <path d="M52 195c-54 42-84 120-61 196 24 80 97 141 178 148 86 7 168-43 200-121 30-76 11-163-49-215-44-39-96-53-153-48-46 4-82 17-115 40z" fill="url(#skin)"/>
+      <path d="M24 184c18-101 104-160 191-137 58 15 101 57 123 110-37-10-82-4-126 22-58 34-122 35-188 5z" fill="#e6e1d7"/>
+      <path d="M60 56c56-38 139-43 200-6 42 26 66 65 71 112-54-32-129-21-181 9-54 32-101 25-138-20 6-36 21-68 48-95z" fill="#d2a56f"/>
+      <path d="M53 64c61-48 156-52 220-7" fill="none" stroke="#314d50" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="128" cy="283" r="13" fill="#211712"/>
+      <circle cx="221" cy="283" r="13" fill="#211712"/>
+      <path d="M101 247c26-14 54-15 81-1M206 247c27-13 53-12 76 3" fill="none" stroke="#2e211a" stroke-width="9" stroke-linecap="round"/>
+      <path d="M126 359c31 28 84 30 121 1" fill="#ffffff" stroke="#743626" stroke-width="5" stroke-linecap="round"/>
+      <path d="M79 350c42 154 230 149 272-4v170c-82 90-218 86-272-2z" fill="#ffffff" opacity="0.2"/>
+      <path d="M81 178c56-27 128-10 193-39 31-14 55-35 74-63 28 34 39 73 36 118-56-32-120-44-191-30-37 7-74 16-112 14z" fill="#d9c0a4" opacity="0.8"/>
+    </g>
+  </g>
+
+  <g transform="translate(618 398)">
+    <circle cx="22" cy="22" r="20" fill="none" stroke="#ff6654" stroke-width="5"/>
+    <path d="M12 22l8 8 15-17" fill="none" stroke="#ff6654" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="607" y="523" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="43" font-weight="500">3. Smile for the camera</text>
+  <text x="608" y="594" fill="#a7acc4" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="500">Live face match + liveness check = no fraud</text>
+</svg>
